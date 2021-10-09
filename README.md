@@ -1,5 +1,6 @@
 # Tuziteljstvo
-Tuziteljsto is an Augmented Reality application for Android mobile devices made with Unity. It uses Vuforia's Image Target to show a content when an image is detected. 
+Tuziteljsto is an Augmented Reality application for Android mobile devices made with Unity. 
+It uses Vuforia's Image Target to show a content when an image is detected. 
 The displayed content is a model of the Public Prosecution of Macedonia.
 
 The model and textures of this building and POI models are made in Blender and imported into Unity, where interaction for points of interest is added:
